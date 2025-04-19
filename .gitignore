@@ -26,7 +26,9 @@ replay_pid*
 
 # Build Directory
 /target/
+/target/*
 /build/
+/build/*
 
 # IntelliJ IDEA
 .idea/
