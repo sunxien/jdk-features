@@ -6,9 +6,7 @@ import java.util.Comparator;
 import java.util.List;
 
 /**
- * 新特性2：函数接口
- * SAM（Single Abstract Method interfaces）有且只有一个抽象方法，但可以有多个非抽象方法的接口。
- * JDK 1.8 java.util.function 包中定义的接口都有 @FunctionalInterface 注解，支持函数式编程。
+ * 新特性2：Functional Interface
  */
 public class Feature2 {
 

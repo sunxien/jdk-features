@@ -1,12 +1,12 @@
 package com.alibaba.jdk.features;
 
 /**
- * 新特性1：接口
+ * 新特性1：Interface
  *
  * 1. 可以使用 `static` 关键字定义静态函数
  * 2. 可以使用 `default` 关键字定义实例方法
  * <p>
- * 抽象类（AbstractClass）和接口（Interface）的区别:
+ * 面试题：抽象类（AbstractClass）和接口（Interface）的区别:
  * 1. 接口可以多实现，抽象类只能单继承
  * 2. 接口的方法默认只能是 public abstract 修饰，内部变量只能是 public static final 定义常量，抽象类可以用其他修饰符定义方法
  */
