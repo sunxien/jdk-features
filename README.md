@@ -19,4 +19,12 @@ Experience the new features from JDK 1.8 to the latest version (24 Preview).
 - JDK 23 (Preview) Markdown documentation comments, Primitive types in patterns, Implicitly declared classes, etc
 - JDK 24 (Preview) Stream gathers, Flexible constructor bodies, Simple source files, etc
 
-Release Note: https://www.oracle.com/java/technologies/javase/jdk-relnotes-index.html
+# Release Notes
+https://www.oracle.com/java/technologies/javase/jdk-relnotes-index.html
+
+# Undo Points
+1. JDK 9 Modules
+2. JDK 13 CDS
+3. JDK 15 Hidden Classes, Sealed Classes
+4. JDK 16 jpackage tool
+5. 
