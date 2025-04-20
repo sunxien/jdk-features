@@ -5,11 +5,11 @@ import org.junit.Test;
 /**
  *
  */
-public class Feature1Test {
+public class Feature2Test {
 
     @Test
     public void test_record_pattern(){
-        new Feature1().recordPattern();
+        new Feature2().newVirtualThread();
     }
 
 }

@@ -27,4 +27,4 @@ https://www.oracle.com/java/technologies/javase/jdk-relnotes-index.html
 2. JDK 13 CDS
 3. JDK 15 Hidden Classes, Sealed Classes
 4. JDK 16 jpackage tool
-5. 
+5. JDK 22 Stream Gather

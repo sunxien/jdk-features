@@ -1,8 +1,8 @@
-package com.alibaba.jdk.features;
-
 /**
  *
  */
-public class Feature1 {
+void main() {
 
+    // Unnamed class/instance
+    System.out.println("Hello, World!");
 }

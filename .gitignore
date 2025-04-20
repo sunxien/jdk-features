@@ -25,10 +25,10 @@ hs_err_pid*
 replay_pid*
 
 # Build Directory
-/target/
-/target/*
-/build/
-/build/*
+target/
+target/*
+build/
+build/*
 
 # IntelliJ IDEA
 .idea/
